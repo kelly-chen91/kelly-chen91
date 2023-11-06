@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am a junior studying Computer Science at Stony Brook University. I am interested in test automation and DevOps. 
+- 🌱 I'm currently learning C.
 <!--
 **kelly-chen91/kelly-chen91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
